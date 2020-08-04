@@ -8,4 +8,6 @@ Repository
 
 #Commands for moving through states of Git
 git init
-
+git add . 
+git commit -m ""
+git push
